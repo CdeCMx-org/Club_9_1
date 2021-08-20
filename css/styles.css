@@ -32,7 +32,7 @@
   --bs-gray-600: #6c757d;
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
-  --bs-gray-900: #212529;
+  --bs-blue-900: #224D47;
   --bs-primary: #1D809F;
   --bs-secondary: #ecb807;
   --bs-success: #198754;
@@ -3555,7 +3555,7 @@ textarea.form-control-lg {
   padding: 0.5rem 0;
   margin: 0;
   font-size: 1rem;
-  color: #212529;
+  color: #224D47;
   text-align: left;
   list-style: none;
   background-color: #fff;
