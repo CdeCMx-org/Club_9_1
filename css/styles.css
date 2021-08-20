@@ -11326,7 +11326,7 @@ html {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #224D47;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -11399,7 +11399,7 @@ html {
   color: #fff;
 }
 .menu-toggle:hover {
-  background: #343a40;
+  background: #122a26;
 }
 
 .btn-xl {
